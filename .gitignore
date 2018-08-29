@@ -4,5 +4,4 @@ reviewer_comments.txt
 *.jpeg
 subfolder_a/
 
-# exceptions to * (overall) ignore, use ! syntax
 !one_special_image.png

@@ -1,4 +1,4 @@
-Just some stuff about dunes
+What if you gitignore your gitignore?
 
 I don't always look at my git history in CLI
 but when I do, I remember
