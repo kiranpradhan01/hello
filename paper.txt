@@ -1,1 +1,6 @@
 Just some stuff about dunes
+
+I don't always look at my git history in CLI
+but when I do, I remember
+A DOG
+git log --all --decorate --online --graph
